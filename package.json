@@ -1,0 +1,14 @@
+{
+  "name": "js-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "socksv5": "^0.0.6"
+  }
+}
